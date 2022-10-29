@@ -1,4 +1,0 @@
-Introduction: why dplyr?
-There are a lot of amazing packages in the Tidyverse, but dplyr is hands-down my absolute favorite package. I use dplyr when I'm cleaning and exploring my dataset, and what I particularly love is that after I get a good handle on my dataset with dplyr, I can feed the various manipulations I've creating into the ggplot2 package for visualization.
-
-This tutorial is for anyone interested in learning the basics of the dplyr package. We'll be focusing on data exploration and manipulation, building off of the examples in the dplyr package documentation using the Palmer Penguins dataset.
